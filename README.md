@@ -1,1 +1,1 @@
-C - Stacks, Queues - LIFO, FIFO (Project)
+C - Stacks, Queues - LIFO, FIFO
